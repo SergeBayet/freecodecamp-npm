@@ -1,2 +1,1 @@
-# freecodecamp-npm
-Tutorial freecodecamp repo
+# Backend Challenges boilerplate - package.json
